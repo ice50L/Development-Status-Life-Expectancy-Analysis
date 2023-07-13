@@ -12,7 +12,7 @@ The data was sourced from Kaggle.com: https://www.kaggle.com/datasets/amirhossei
 - Does the development status of a country affect the average life expectancy of a country?
 - Which countries have the highest alcohol consumption and does this affect the overall health of the country?
 
-#Findings:
+# Findings:
 
 - It appears that the mean HIV/AIDS cases are prevalent in developing countries compared to developed nations.
 - Developing countries have a large range of life expectancies, however though there are lower amounts of developed nations, most outrank the life expectancies of underdeveloped nations.
